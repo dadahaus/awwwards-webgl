@@ -6,7 +6,7 @@
 log/
 node_modules/
 bower_components/
-bizarro-boilerplate
+bizarro-boilerplate/
 
 # Files.
 result.xml
